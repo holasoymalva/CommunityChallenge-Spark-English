@@ -38,17 +38,17 @@ During the challenge we faced never before doing tutorials, made by which we nai
 
 ## What we learned
 
-- ✨ Spark AR community support tou.
-- ✨ How to .. Record, Write tutorials, make a guion, create a youtube chanel, segment audience, 
-- ✨ Improve our Spark AR Skill (Now we are Spartk AR Ninjas)
+- ✨ Spark AR community support you.
+- ✨ How to .. Record, Write tutorials, make a guion, create a youtube channel, segment audience, 
+- ✨ Improve our Spark AR Skill (Now we are Spark AR Ninjas)
 - ✨ The importance to save files in photoshop every second.
 - ✨ How to important will be that someone else can help you to solve a simple question that will be hardest to solve.
 
 ## What's next for Spark AR - Art Series
-- ✨ Add auto translate to support more lenguages.
+- ✨ Add auto translate to support more languages.
 - ✨ Support more languages to the tutorial subtitles.
 - ✨ Add new interactions and uses.
-- ✨ Invite artist to share their work anh how they are use Spark AR
+- ✨ Invite artist to share their work and how they are use Spark AR
 - ✨ Improve the resource hub and quality of videos.
 - ✨ Create a tutorial series about the use of spark AR with blender.
 - ✨ Continues the serie .
@@ -139,7 +139,6 @@ I was learn howe to use and add value for artistic projects with the use of Augm
 - ✨ Continues the serie .
 
 
-
 # Video Tutorial : From Cero To Hero .
 🎬 In this section we learn how to use Spark AR . 🏃‍♂️
 
@@ -164,12 +163,6 @@ See the [tutorial](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/ma
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/01-demo.png?raw=true" width="35%" title="hover text">
 
-# Video Tutorial : From the museums to your Home 🏡 .
-🦄 Imagine this is a tutorial: Use a drag and drop museum statu in your home. 🗿
-
-<br>
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/04-demo.png?raw=true" width="35%" title="hover text">
-
 
 # Video Tutorial : See me mom I am an 🍏.
 Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](https://www.cgtrader.com/items/2234573/download-page) and [3d Hat](https://www.cgtrader.com/free-3d-models/military/armor/lego-hat-v-2)
@@ -177,7 +170,6 @@ Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](htt
 🦄 Imagine this is a tutorial with the use of a Magri filter.
 <br>
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/magritteSpark.png?raw=true" width="35%" title="hover text">
-
 
 # Learn about art in youtr Home 👩🏽‍🏫.
 Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](https://www.cgtrader.com/items/2234573/download-page) and [3d Hat](https://www.cgtrader.com/free-3d-models/military/armor/lego-hat-v-2)
@@ -187,23 +179,7 @@ Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](htt
 [Example 2](https://www.metmuseum.org/art/collection/search/436819?searchField=All&amp;showOnly=openAccess&amp;ft=Klimt&amp;offset=0&amp;rpp=20&amp;pos=2)
 [Example 3](https://www.metmuseum.org/art/collection/search/438817?searchField=All&amp;sortBy=Relevance&amp;showOnly=openAccess&amp;ft=degas&amp;offset=0&amp;rpp=20&amp;pos=2)
 <br>
-<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/learning.png?raw=true" width="35%" title="hover text">
-
-
-# Art is Magic 🔮
-🦄 Imagine this is a Youtube tutorial : Using a personal paint and using to make an awesome experience with the use of particles, lights, planes and music.
-[Example 1](https://www.metmuseum.org/art/collection/search/436529?searchField=All&amp;showOnly=openAccess&amp;ft=van+gogh&amp;offset=0&amp;rpp=20&amp;pos=6)
-<br>
-<img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/438817/796418/main-image" width="35%" title="hover text">
-
-
-# Lost in a Piece 🌌
-🦄 Take your Art Work and make an inversive pice of art.
-[Example 1](https://www.metmuseum.org/art/collection/search/436529?searchField=All&amp;showOnly=openAccess&amp;ft=van+gogh&amp;offset=0&amp;rpp=20&amp;pos=6)
-[Example 2](https://www.metmuseum.org/art/collection/search/336327?searchField=All&amp;sortBy=Relevance&amp;showOnly=openAccess&amp;ft=van+gogh&amp;offset=0&amp;rpp=20&amp;pos=8)
-<br>
-<img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/436529/795979/main-image" width="35%" title="hover text">
-
+<img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122237959_3536197529793229_3258791918736505668_n.jpg?_nc_cat=111&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=EY_336W0q0IAX-0SVn3&_nc_ht=scontent.fmex6-1.fna&oh=79bf79ac681544c36cf8eeeb7c2b5fde&oe=5FB96F57" width="35%" title="hover text"><img src="https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/122329906_3536205349792447_7268334650217145109_o.jpg?_nc_cat=102&cb=846ca55b-311e05c7&ccb=2&_nc_sid=0debeb&_nc_ohc=R6hlA-8B1pkAX82OLk9&_nc_ht=scontent.fmex6-1.fna&oh=d433b87b0710d0fbdb6324043502e8e0&oe=5FB88352" width="28%" title="hover text">
 
 ### Resources: 
 
@@ -217,4 +193,4 @@ Resources : [BG Clouds](https://unsplash.com/photos/PEm_sLmJT-w), [3D Apple](htt
 
 ## License
 
-`MuseumSpARk ` is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
+`Spark AR - Artistic Series ` is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
