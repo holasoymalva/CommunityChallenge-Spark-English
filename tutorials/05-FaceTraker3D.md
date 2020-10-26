@@ -113,9 +113,12 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_26.jpg?raw=true" width="50%">
 
-### - And once again, but now with the apple
+### - In the upper section we can change the color of the elements.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_27.jpg?raw=true" width="50%">
+
+### - An it's done, the only thing left to do is to test it and send it to revision.
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_28.jpg?raw=true" width="50%">
 
 
