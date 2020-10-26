@@ -1,4 +1,4 @@
-# Make your first VanGogh Filter <img src="https://www.enlinealasalle.com/pluginfile.php/8983/course/overviewfiles/vincent-van-gogh-png-2.png" height="25">
+# Inside the world of Van Gogh , Make your first VanGogh Filter <img src="https://www.enlinealasalle.com/pluginfile.php/8983/course/overviewfiles/vincent-van-gogh-png-2.png" height="25">
 
 # Make the Background
 
