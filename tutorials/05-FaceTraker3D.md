@@ -2,6 +2,9 @@
 
 ## 1) Find Resources.
 
+<img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/FaceTracker3D_1.png?raw=true" width="50%">
+
+
 ## 2) Open Spark AR and create a new project.
 
 ## 3) Add a Face Tracker
