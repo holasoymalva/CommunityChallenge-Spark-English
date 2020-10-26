@@ -1,18 +1,14 @@
 
 # 🎒 Spark AR - Art Series 👩🏻‍🎨 
 
-**We are Stories, Museums are stories.**
-
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/artSeries.png?raw=true" width="100%" title="hover text">
 
+## Index :
 
-## Indice :
-
-- ✨ [About this project](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#sobre-este-proyecto)
-- ✨ [Tutoriales](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#tutoriales)
-- ✨ [Video Tutoriales](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/README.md#video-tutoriales)
-- ✨ [Recursos](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#recursos)
-- ✨ [Licencia](https://github.com/L3ts-H4ck/CommunityChallenge-Spark#licencia)
+- ✨ [About this project](https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/README.md#about-this-project)
+- ✨ [tutorials](https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/README.md#tutorials-)
+- ✨ [Resources](https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/README.md#resources)
+- ✨ [License](https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/README.md#license)
 
 
 # About this project
