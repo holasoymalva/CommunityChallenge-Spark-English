@@ -59,54 +59,62 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_14.jpg?raw=true" width="50%">
 
-### - The next thing is to add the ``Face Tracker`` for our filter.
+### - Once done this, we can see the background of our painting. 
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_15.jpg?raw=true" width="50%">
 
-### - This is the fun part, we will start adding our assets.
+## 4) Add the 3d elemets inside the facetracker
+
+### - The next thing is to add the ``Face Tracker`` for our filter.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_16.jpg?raw=true" width="50%">
 
-### - We select ``import from computer``
+### - This is the fun part, we will start adding our assets.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_17.jpg?raw=true" width="50%">
 
-### - For this we had prepared our own assets, you can do it to, or just use the ones we are using to.
+### - We select ``import from computer``
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_18.jpg?raw=true" width="50%">
 
-### - On the files we just upload, there is this one that contains the head of our mask.
+### - For this we had prepared our own assets, you can do it to, or just use the ones we are using to.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_19.jpg?raw=true" width="50%">
 
-### - We need to drag it to our ``Face Tracker`` so we can use it.
+### - On the files we just upload, there is this one that contains the head of our mask.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_20.jpg?raw=true" width="50%">
 
-### - We repeat this same process for the hat.
+### - We need to drag it to our ``Face Tracker`` so we can use it.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_21.jpg?raw=true" width="50%">
 
-### - Now we have a head with a little hat
+### - We repeat this same process for the hat.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_22.jpg?raw=true" width="50%">
 
-### - And once again, but now with the apple
+### - Now we have a head with a little hat
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_23.jpg?raw=true" width="50%">
 
-### - We'll move the apple to the front of all the other ones, you can do this with the selection tool on the top of the screen.
+### - And once again, but now with the apple
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_24.jpg?raw=true" width="50%">
 
-### - We have now all the assets we need, we just have to change their colors, for that we need to change the ``Blend Mode`` => ``Replace`` and the ``Opacity`` => 100%
+## 5) Fix the 3d Elements
+
+### - We'll move the apple and all of the other elements to the place we want, you can do this with the selection tool on the top of the screen.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_25.jpg?raw=true" width="50%">
 
+## 6) Prepare and Testing
 
-
+### - We have now all the assets we need, we just have to change their colors, for that we need to change the ``Blend Mode`` => ``Replace`` and the ``Opacity`` => 100%
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_26.jpg?raw=true" width="50%">
+
+### - And once again, but now with the apple
+
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_27.jpg?raw=true" width="50%">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/tutorials/03-source/FaceTracker_28.jpg?raw=true" width="50%">
 
@@ -115,9 +123,9 @@
 
 
 
-## 4) Add the 3d elemets inside the facetracker
 
-## 5) Fix the 3d Elements
 
-## 6) Prepare and Testing
+
+
+
 
