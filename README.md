@@ -8,6 +8,7 @@
 - ✨ [About this project](https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/README.md#about-this-project)
 - ✨ [tutorials](https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/README.md#tutorials-)
 - ✨ [Resources](https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/README.md#resources)
+- ✨ [Sampled Software](https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English#sampled-software)
 - ✨ [License](https://github.com/L3ts-H4ck/CommunityChallenge-Spark-English/blob/main/README.md#license)
 
 
@@ -129,9 +130,9 @@ Resources : [Mäda Primavesi](https://www.metmuseum.org/art/collection/search/43
 
 # Sampled Software:
 
-* (Inside the world of Van Gogh )[https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/crownVangogh.zip]
-* (See me mom I am a painting)[https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/AppleManMagritte.zip]
-* (Learn about art in Home)[https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/kilmtTextInformation.zip]
+* [Inside the world of Van Gogh](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/crownVangogh.zip)
+* [See me mom I am a painting](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/AppleManMagritte.zip)
+* [Learn about art in Home](https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/kilmtTextInformation.zip)
 
 # License
 
