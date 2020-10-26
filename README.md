@@ -62,12 +62,6 @@ During the challenge we faced never before doing tutorials, made by which we nai
 - ✨ Continues the serie .
 
 
-
-
-## 👩🏻‍🔬 What's we learned
-
-I was learn how to use and add value for artistic projects with the use of Augmented Reality an the empowerment of Facebook and Instagram 💖 
-
 ## 📝 What's next for Spark ARt
 - ✨ Add new integrations.
 - ✨ Invite artist to share their work anh how they are use Spark AR
