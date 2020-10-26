@@ -126,6 +126,13 @@ Resources : [Mäda Primavesi](https://www.metmuseum.org/art/collection/search/43
 * [Best Practice](https://sparkar.facebook.com/ar-studio/learn/articles/fundamentals/best-practice#effect-strategy)
 * [Engaging Experiences](https://developers.facebook.com/videos/2020/building-engaging-experiences-on-spark-ar/)
 
+
+# Sampled Software:
+
+* (Inside the world of Van Gogh )[https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/crownVangogh.zip]
+* (See me mom I am a painting)[https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/AppleManMagritte.zip]
+* (Learn about art in Home)[https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/Sampled%20Software/kilmtTextInformation.zip]
+
 # License
 
 `Spark AR - Artistic Series ` is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
