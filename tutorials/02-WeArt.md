@@ -1,5 +1,5 @@
 
-<div id="target" style="{width: 100px; height:100px; background-color:red; transition: all 4s linear;}" onmouseover="this.style.opacity = '.3'">click me</div>
+<div id="target" height="25" width="25" style="{background-color:red; transition: all 4s linear;}" onmouseover="this.style.opacity = '.3'">click me</div>
 
 
 # Inside the world of Van Gogh , Make your first VanGogh Filter 
