@@ -5,18 +5,18 @@
 ## Instalation
 
 
-### - The best way to install Spark AR is through the official site of Spark AR and clicking on the download button. 
+### - The best way to install Spark AR is through the official site of Spark AR 
 
 <img src="https://scontent.fmex28-1.fna.fbcdn.net/v/t1.0-9/126960393_3623312641081717_5452165124711328985_o.jpg?_nc_cat=106&ccb=2&_nc_sid=0debeb&_nc_eui2=AeHZGtMOWcxhC0XhraUwDR04CWDYxCpUX0EJYNjEKlRfQRAxZUvmnLeqJjiUIsE--y-5Dk_75UWprGLrxnTe2hp7&_nc_ohc=iRQTLNBPtRUAX8iY7sk&_nc_ht=scontent.fmex28-1.fna&oh=a0205bdb078e0c48f4950bd3f9eaa6dd&oe=5FE4AFBC" width="50%" title="hover text">
 <img src="https://scontent.fmex28-1.fna.fbcdn.net/v/t1.0-9/127222249_3623312734415041_3586981490384962_o.jpg?_nc_cat=103&ccb=2&_nc_sid=0debeb&_nc_eui2=AeH6rlR0RtCYyUUGKX3bxNiWb8kqzEj0WypvySrMSPRbKm6jMqYE37WT7LC557FrELT-Snugf7gTKSz271ca8pNq&_nc_ohc=ii5IkfNRxAUAX89Uil5&_nc_ht=scontent.fmex28-1.fna&oh=1b94e5e4787de1cd2838c201ba0a9eb1&oe=5FE50273" width="50%" title="hover text">
 
+And clicking on the download button. 
 
+<img src="https://scontent.fmex28-1.fna.fbcdn.net/v/t1.0-9/126857463_3623312654415049_3692519349257280835_o.jpg?_nc_cat=103&ccb=2&_nc_sid=0debeb&_nc_eui2=AeGcwNpCVJP0dyAYN9weyRH9NmlnjWYBKig2aWeNZgEqKO_S4ntxS3z4MrCTa-k1RVF8p0w-HcwcFAZ_PX1ZXeCy&_nc_ohc=7-pmof_GfpgAX_Poe2M&_nc_ht=scontent.fmex28-1.fna&oh=bf23072ae5b888e7608399b2779b3b8b&oe=5FE448CB" width="50%" title="hover text">
 
 We'll recive an installation file, from wich we can get the latest version. 
 Each time facebook releases a new version, we can get the newest one with the one we downloaded, you don't need to install it again. 
 
-
-<img src="https://scontent.fmex28-1.fna.fbcdn.net/v/t1.0-9/126857463_3623312654415049_3692519349257280835_o.jpg?_nc_cat=103&ccb=2&_nc_sid=0debeb&_nc_eui2=AeGcwNpCVJP0dyAYN9weyRH9NmlnjWYBKig2aWeNZgEqKO_S4ntxS3z4MrCTa-k1RVF8p0w-HcwcFAZ_PX1ZXeCy&_nc_ohc=7-pmof_GfpgAX_Poe2M&_nc_ht=scontent.fmex28-1.fna&oh=bf23072ae5b888e7608399b2779b3b8b&oe=5FE448CB" width="50%" title="hover text">
 <img src="https://scontent.fmex28-1.fna.fbcdn.net/v/t1.0-9/126885078_3623312611081720_3596400700792248055_o.jpg?_nc_cat=103&ccb=2&_nc_sid=0debeb&_nc_eui2=AeG-Uj3ihAYSRZBs8x4gsoziE1_CaZ5IVtoTX8JpnkhW2tyDukklUiFcYbVKkJ21-13Qzw5C3ZfyIrjf-l4nA_3t&_nc_ohc=jLHQY9tRkHcAX-Khr5j&_nc_ht=scontent.fmex28-1.fna&oh=673edbe040049b6036645eb1e4633f1d&oe=5FE46D15" width="50%" title="hover text">
 <img src="https://scontent.fmex28-1.fna.fbcdn.net/v/t1.0-9/127887680_3623312581081723_1097289638704730477_o.jpg?_nc_cat=109&ccb=2&_nc_sid=0debeb&_nc_eui2=AeHsbCjQUV5ri8wkj_8I44w0vyw3jnyZ0Du_LDeOfJnQO-XowgCt-MK2LPIWG3K0NotqKsImphE9ZbWF7n_fluSX&_nc_ohc=iRTAs5XfxdUAX8C5T2J&_nc_ht=scontent.fmex28-1.fna&oh=d1f22536b2b22f105ceb83ad1a25e75d&oe=5FE2ADCE" width="50%" title="hover text">
 <img src="https://scontent.fmex28-1.fna.fbcdn.net/v/t1.0-9/126409509_3623312564415058_5022380160202443500_n.jpg?_nc_cat=110&ccb=2&_nc_sid=0debeb&_nc_eui2=AeGH9M4vYd-_phFAJP0GxjPXh7Zw9KOrMMGHtnD0o6swwWGeb9YTJCjLeNI3Sf3YurxWL8hsMrbAmRto2uSRyBCD&_nc_ohc=2ra1w8F7Za0AX_GqY4g&_nc_ht=scontent.fmex28-1.fna&oh=45985f0f557464221eb8af787d7bf271&oe=5FE46A91" width="50%" title="hover text">
