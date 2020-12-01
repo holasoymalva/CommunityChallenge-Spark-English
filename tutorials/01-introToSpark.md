@@ -56,10 +56,13 @@
 ## Our First Filter
 
 ### - The first thing we're going to do, is to select the option ``` Face Mask ```, by double clicking on the image.
+
 <p align="center">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/05-intro.png?raw=true" width="50%" title="hover text">
 </p> 
+
 ### - We'll get an interface like this one:
+
 <p align="center">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/06-intro.png?raw=true" width="50%" title="hover text">
 </p> 
@@ -69,19 +72,27 @@
 <p align="center">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/08-intro.png?raw=true" width="50%" title="hover text">
 </p> 
+
 ### - If we click it, a window like this one will open. In this window we can find the main elements of Spark AR and its characteristics. In our case we're going to select the option "3dtext"
+
 <p align="center">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/09-intro.png?raw=true" width="50%" title="hover text">
 </p> 
+
 ### - We will add it to our faceTracker0. We can now see on the rigth side the properties of our object "3dtext", like material, text, font, etc.
+
 <p align="center">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/10-intro.png?raw=true" width="50%" title="hover text">
 </p> 
+
 ### - We're going to to click on Typography / Text and we'll add the text ``` hello world ```, now the text has changed.
+
 <p align="center">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/11-intro.png?raw=true" width="50%" title="hover text">
 </p> 
+
 ### - If we go to materials, we can change the colors and more.
+
 <p align="center">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/12-intro.png?raw=true" width="50%" title="hover text">
 </p> 
