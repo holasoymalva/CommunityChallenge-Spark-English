@@ -41,7 +41,7 @@
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/02-intro.png?raw=true" width="50%" title="hover text">
 </p> 
 
-### - Once we open Spark AR, we'll find an interface like the one on the screen, from wich we can create a filter from the ground up.By doble clicking the option ```New project```, or we can choose a premade template on the section ```All Templates```.
+### - Once we open Spark AR, we'll find an interface like the one on the screen, from wich we can create a filter from the ground up. By doble clicking the option ```New project```, or we can choose a premade template on the section ```All Templates```.
 
 <p align="center">
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/intro-sources/03-intro.png?raw=true" width="50%" title="hover text">
