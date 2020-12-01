@@ -1,5 +1,5 @@
 
-<div id="target" height="25" width="25" style="{color:red; transition: all 4s linear;}" onmouseover="this.style.color = blue">click me</div>
+<div id="target" height="25" width="25" style="{text-color:red; transition: all 4s linear;}" onmouseover="this.style.textColor = blue">click me</div>
 
 
 # Inside the world of Van Gogh , Make your first VanGogh Filter 
