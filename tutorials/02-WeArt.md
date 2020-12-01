@@ -1,3 +1,5 @@
+<p align="center">
+
 # Inside the world of Van Gogh , Make your first VanGogh Filter <img src="https://www.enlinealasalle.com/pluginfile.php/8983/course/overviewfiles/vincent-van-gogh-png-2.png" height="25">
 
 # Make the Background
@@ -162,6 +164,8 @@
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/39.png?raw=true" width="50%">
 
+
+
 ### -  And add more images to this layer.
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/40.png?raw=true" width="50%">
@@ -174,3 +178,5 @@
 # The Result
 
 <img src="https://github.com/L3ts-H4ck/CommunityChallenge-Spark/blob/master/tutorials/03-source/42.png?raw=true" width="50%">
+
+</p>
