@@ -12,13 +12,13 @@
   <img src="https://scontent.fmex28-1.fna.fbcdn.net/v/t1.0-9/127222249_3623312734415041_3586981490384962_o.jpg?_nc_cat=103&ccb=2&_nc_sid=0debeb&_nc_eui2=AeH6rlR0RtCYyUUGKX3bxNiWb8kqzEj0WypvySrMSPRbKm6jMqYE37WT7LC557FrELT-Snugf7gTKSz271ca8pNq&_nc_ohc=ii5IkfNRxAUAX89Uil5&_nc_ht=scontent.fmex28-1.fna&oh=1b94e5e4787de1cd2838c201ba0a9eb1&oe=5FE50273" width="50%" title="hover text">
 </p> 
 
-### - Clcik on the download button, we want to download Spark AR Studio, that's the IDE we're going to use. 
+### - Click on the download button, we want to download Spark AR Studio, that's the IDE we're going to use. This IDE is going to make it all so simple, you'll see. 
 
 <p align="center">
 <img src="https://scontent.fmex28-1.fna.fbcdn.net/v/t1.0-9/126857463_3623312654415049_3692519349257280835_o.jpg?_nc_cat=103&ccb=2&_nc_sid=0debeb&_nc_eui2=AeGcwNpCVJP0dyAYN9weyRH9NmlnjWYBKig2aWeNZgEqKO_S4ntxS3z4MrCTa-k1RVF8p0w-HcwcFAZ_PX1ZXeCy&_nc_ohc=7-pmof_GfpgAX_Poe2M&_nc_ht=scontent.fmex28-1.fna&oh=bf23072ae5b888e7608399b2779b3b8b&oe=5FE448CB" width="50%" title="hover text">
 </p> 
 
-### - We'll recive an installation file, from wich we can get the latest version.  
+### - We'll recive an installation file, this screenshots are in a macOS system, but it's going to be very similar for Windows.
 
 <p align="center">
 <img src="https://scontent.fmex28-1.fna.fbcdn.net/v/t1.0-9/126885078_3623312611081720_3596400700792248055_o.jpg?_nc_cat=103&ccb=2&_nc_sid=0debeb&_nc_eui2=AeG-Uj3ihAYSRZBs8x4gsoziE1_CaZ5IVtoTX8JpnkhW2tyDukklUiFcYbVKkJ21-13Qzw5C3ZfyIrjf-l4nA_3t&_nc_ohc=jLHQY9tRkHcAX-Khr5j&_nc_ht=scontent.fmex28-1.fna&oh=673edbe040049b6036645eb1e4633f1d&oe=5FE46D15" width="50%" title="hover text">
